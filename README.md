@@ -1,4 +1,6 @@
 ```
+$ node --version
+v20.11.0
 $ npm install
 
 added 346 packages, and audited 347 packages in 3s
